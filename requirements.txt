@@ -1,4 +1,4 @@
-Jinja2==2.10
+Jinja2==2.11.3
 pip==20.1.1
 PyGithub==1.53
 python-gitlab==1.14.0   
